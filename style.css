@@ -1559,15 +1559,15 @@ table {
 .numbre{
 	padding-left:10px;}
     .history_numbers td .green {
-        background: url(../images/ball.png) -71px -1px no-repeat;
+        background: url(https://quantil.jsdelivr.net/gh/yncms/zylhc/ball.png) -71px -1px no-repeat;
     }
 
     .history_numbers td .blue {
-        background: url(../images/ball.png) -1px -1px no-repeat;
+        background: url(https://quantil.jsdelivr.net/gh/yncms/zylhc/ball.png) -1px -1px no-repeat;
     }
 
     .history_numbers td .red {
-        background: url(../images/ball.png) -36px -1px no-repeat;
+        background: url(https://quantil.jsdelivr.net/gh/yncms/zylhc/ball.png) -36px -1px no-repeat;
     }
 
 .history_numbers .pl_17 {
